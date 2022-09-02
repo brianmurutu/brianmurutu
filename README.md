@@ -69,7 +69,7 @@
 <br/>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murutubrian" /></a><a href="https://ko-fi.com/murutubrian"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="murutubrian" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murutubrian" /></a><a href="https://www.paypal.com/donate/?hosted_button_id=B4GZZG7WY3UXE"><img align="right" src="https://www.paypal.com/en_KE/i/scr/pixel.gif" width="210" height="50""></p><br><br>
 
 
 
