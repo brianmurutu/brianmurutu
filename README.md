@@ -61,6 +61,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/brianmurutu/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
+[![Generate Stats Images](https://github.com/brianmurutu/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/brianmurutu/github-stats/actions/workflows/main.yml)
+
 <br/>
 
 <h3 align="left">Support:</h3>
