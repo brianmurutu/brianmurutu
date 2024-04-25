@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 <div align='center'>
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
