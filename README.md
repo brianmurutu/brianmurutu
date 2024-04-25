@@ -5,38 +5,43 @@
 <br><p align="left"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
 
- [![Twitter](https://img.shields.io/twitter/follow/brianmurutu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
- [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
- <br/>
- [![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://telegram.me/Cyberlion_The_Greatest) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aadil_m__)
+[![Github](https://img.shields.io/github/followers/brianmurutu?label=Follow&style=social)](https://github.com/brianmurutu)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://komarev.com/ghpvc/?username=brianmurutu" alt="blueedge"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Mail](https://img.shields.io/badge/-EMAIL_ME-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:hello@sirbrian.top)
+
+
+
+
+
+[![JOIN MY TELEGRAM CHANNEL](https://img.shields.io/badge/JOIN%20MY%20TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smartesthackers)
+
  
-  <a href="https://t.me/smartesthackers" class="button success">JOIN MY TELEGRAM CHANNEL</a>
- 
 
 
 
-## Africa's & World's Best Developer!!
+## WHAT I AM UPTO !!
 
 - 🔭 I’m currently working on [Restful API with Flask](https://vuejsexamples.com/task-list-with-vue-js/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🤝 I’m looking for help with [Designing a perfect Dashboard using VueJS](https://www.creative-tim.com/product/vue-material-dashboard)
-- 🥅 2022 Goals: Learn more about web3 & Software Frameworks
-- 📝 I regularly write articles on [https://cyberliontechnologies.com](https://cyberliontechnologies.com)
+- 🥅 2024 Goals: Learn more about web3 & Software Frameworks
+- 📝 I regularly write articles on [https://sirbrian.top](https://sirbrian.top)
 - ⚡ Fun fact **I'm recommended by 4 out of 5 people that recommend things. I'm one of the coolest, I promise.**
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://wa.me/_254792710951"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://twitter.com/sirbrianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirbrianmurutu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://codesandbox.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://fb.com/officialbrianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialbrianmurutu" height="30" width="40" /></a>
-<a href="https://instagram.com/sir_brian_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_brian_ke" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyberlion technologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberlion technologies" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="brianmurutu" height="30" width="40" /></a>
 </p>
 <br/>
@@ -50,23 +55,30 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-
+<div align='center'>
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
+<!--
 <a href="https://github.com/brianmurutu/github-stats">
 <img src="https://github.com/brianmurutu/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/brianmurutu/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/brianmurutu/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/brianmurutu/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
+-->
 
+ <br>
+  <img src='https://github-readme-stats.vercel.app/api?username=brianmurutu&theme=radical&show_icons=true&count_private=true&hide=contribs'></img>
 
 <br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murutubrian" /></a><a href="https://www.paypal.com/donate/?hosted_button_id=KBUV9X67U6XYW"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" height="75" width="210" alt="Donate with PayPal" />
-</a></p><br><br>
+<h3 align="center">Support:</h3>
+
+
+<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murutubrian" /></a>
+</a></p>
+</div>
 
 
 
