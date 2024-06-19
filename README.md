@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🤝 I’m looking for help with [Designing a perfect Dashboard using VueJS](https://www.creative-tim.com/product/vue-material-dashboard)
 - 🥅 2024 Goals: Learn more about web3 & Software Frameworks
-- 📝 I regularly write articles on [https://sirbrian.top](https://sirbrian.top)
+- 📝 I regularly write articles on [https://blog.sirbrian.top](https://blog.sirbrian.top)
 - ⚡ Fun fact **I'm recommended by 4 out of 5 people that recommend things. I'm one of the coolest, I promise.**
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
