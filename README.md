@@ -2,8 +2,7 @@
 
 
 
-<br><p align="left"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="left"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
+<br><p align="left"><b>Followers & Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>   
 
 [![Github](https://img.shields.io/github/followers/brianmurutu?label=Follow&style=social)](https://github.com/brianmurutu)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
