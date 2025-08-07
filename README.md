@@ -28,19 +28,19 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🤝 I’m looking for help with [Designing a perfect Dashboard using VueJS](https://www.creative-tim.com/product/vue-material-dashboard)
 - 🥅 2025 Goals: Learn more about web3 & Software Frameworks
-- 📝 I regularly write articles on [https://blog.sirbrian.top](https://blog.sirbrian.top)
+- 📝 I regularly write articles on [[https://blog.sirbrian.top](https://techdaily.buzz)]
 - ⚡ Fun fact **I'm recommended by 4 out of 5 people that recommend things. I'm one of the coolest, I promise.**
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/_254792710951"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://wa.me/+254792710951"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://twitter.com/sirbrianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirbrianmurutu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sir-brian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://codesandbox.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://fb.com/officialbrianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialbrianmurutu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sirbriandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sirbriandev" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="brianmurutu" height="30" width="40" /></a>
 </p>
 <br/>
@@ -56,18 +56,9 @@
 <h3 align="center">GitHub Stats:</h3>
 <div align='center'>
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/abdulmudalib/github-stats">
-<img src="https://github.com/abdulmudalib/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/abdulmudalib/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/abdulmudalib/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/abdulmudalib/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-
 
  <br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianmurutu&show_icons=true&locale=en&layout=compact" alt="brianmurutu" /></p>
   <img src='https://github-readme-stats.vercel.app/api?username=brianmurutu&theme=radical&show_icons=true&count_private=true&hide=contribs'></img>
 
 <br/>
