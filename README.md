@@ -69,8 +69,6 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianmurutu&show_icons=true&locale=en&layout=compact" alt="brianmurutu" /></p>
   <img src='https://github-readme-stats.vercel.app/api?username=brianmurutu&theme=radical&show_icons=true&count_private=true&hide=contribs'></img>
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brianmurutu&theme=tokyonight&hide_border=false)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmurutu&theme=tokyo-night&hide_border=true)
 
 <br/>
