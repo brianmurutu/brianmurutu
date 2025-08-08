@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Sir+Brian+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Fullstack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Kenya+🇰🇪;Tech+Enthustiast;Cybersecurity+Advocate+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Sir+Brian+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Fullstack+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Tech+Enthusiast+%F0%9F%9A%80;IT+Solutions+Architect+%F0%9F%92%BB;System+Engineer+%E2%9A%99%EF%B8%8F;DevOps+Enthusiast+%F0%9F%AA%96;Cloud+%26+Infrastructure+Specialist+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%F0%9F%91%8D" alt="" width="650" height="55">
 
 
 
