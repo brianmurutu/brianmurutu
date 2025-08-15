@@ -15,7 +15,7 @@
 
 
 
-[![JOIN MY TELEGRAM CHANNEL](https://img.shields.io/badge/JOIN%20MY%20TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smartesthackers)
+[![JOIN MY TELEGRAM CHANNEL "𝐓𝐄𝐂𝐇 𝐄𝐌𝐏𝐈𝐑𝐄𝐓𝐄𝐂𝐇 𝐄𝐌𝐏𝐈𝐑𝐄"](https://img.shields.io/badge/JOIN%20MY%20TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tech_empire)
 
  
 
