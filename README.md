@@ -34,15 +34,16 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://wa.me/+254792710951"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://twitter.com/sirbrianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirbrianmurutu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sir-brian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sirbriandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sirbriandev" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="brianmurutu" height="30" width="40" /></a>
+<p align="centre">
+<a href="https://wa.me/+254792710951" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://twitter.com/sirbrianmurutu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirbrianmurutu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sir-brian" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/brianmurutu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://codesandbox.com/brianmurutu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sirbriandev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sirbriandev" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/brianmurutu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="brianmurutu" height="30" width="40" /></a>
 </p>
+
 <br/>
 
 ---
