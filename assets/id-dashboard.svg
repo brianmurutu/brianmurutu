@@ -83,11 +83,10 @@
       <!-- ID Details beside photo -->
       <g transform="translate(104, 52)">
         <text class="font-mono" x="0" y="10" fill="#94a3b8" font-size="8.5">NAME:</text>
-        <text class="font-sans" x="0" y="24" fill="#ffffff" font-size="13" font-weight="800">SIR. BRIAN</text>
-        <text class="font-sans" x="0" y="37" fill="#ffffff" font-size="11" font-weight="700">MURUTU</text>
+        <text class="font-sans" x="0" y="28" fill="#ffffff" font-size="15" font-weight="900">SIR. BRIAN</text>
 
         <text class="font-mono" x="0" y="54" fill="#94a3b8" font-size="8.5">SERIES ID:</text>
-        <text class="font-mono" x="0" y="66" fill="#00d2ff" font-size="10" font-weight="700">#KE-254-BM</text>
+        <text class="font-mono" x="0" y="66" fill="#00d2ff" font-size="10" font-weight="700">#KE-254-SB</text>
 
         <text class="font-mono" x="0" y="80" fill="#94a3b8" font-size="8.5">CLEARANCE:</text>
         <text class="font-mono" x="0" y="92" fill="#00e676" font-size="9.5" font-weight="700">LEVEL 5 / LEAD</text>
@@ -98,9 +97,9 @@
 
       <!-- Company & Role -->
       <g transform="translate(18, 166)">
-        <text class="font-sans" x="0" y="0" fill="#ffffff" font-size="11" font-weight="700">Star Infinite Innovations</text>
+        <text class="font-sans" x="0" y="0" fill="#ffffff" font-size="11" font-weight="700">Starlet Technologies</text>
         <text class="font-sans" x="0" y="14" fill="#94a3b8" font-size="9.5">Solutions Architecture &amp; Web Lead</text>
-        <text class="font-mono" x="0" y="30" fill="#60a5fa" font-size="9">ISSUED: 2024 • NAIROBI/THIKA</text>
+        <text class="font-mono" x="0" y="30" fill="#60a5fa" font-size="9">starlettechnologies.com</text>
       </g>
 
       <!-- Barcode Graphic -->

@@ -85,7 +85,7 @@
     <g transform="translate(0, 42)">
       <g clip-path="url(#hero-name-mask)">
         <text class="font-sans anim-name" x="0" y="52" fill="#ffffff" font-size="46" font-weight="900" letter-spacing="-1">
-          BRIAN MURUTU
+          SIR. BRIAN
           <tspan fill="#ff354f">.</tspan>
         </text>
       </g>
@@ -144,7 +144,7 @@
       <!-- Company Chip -->
       <g transform="translate(135, 0)">
         <rect x="0" y="0" width="185" height="26" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
-        <text x="10" y="17" fill="#cbd5e1" font-size="12" class="font-sans">🏢 Star Infinite Innovations</text>
+        <text x="10" y="17" fill="#cbd5e1" font-size="12" class="font-sans">🏢 Starlet Technologies</text>
       </g>
       <!-- Experience Chip -->
       <g transform="translate(330, 0)">
