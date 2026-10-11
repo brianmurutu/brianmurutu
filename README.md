@@ -1,95 +1,73 @@
-# Hey, I'm Brian Murutu 👋🏻
+<div align="center">
 
-**IT Solutions Architect · Fullstack Developer · AI Integration Engineer**
-Based in Kenya 🇰🇪 · Available for remote & contract work worldwide
+<!-- HERO SECTION: Rising Mask Name Reveal, Cycling Roles, Verified Badge -->
+<a href="https://sirbrian.vercel.app">
+  <img src="./assets/hero.svg?v=1" alt="Sir. Brian — IT Solutions Architect" width="100%" />
+</a>
 
----
+<br/>
 
-I've been building software professionally for years — web apps, cloud infrastructure, AI-powered systems, and everything in between. I work across the full stack and I'm comfortable going from a blank repo to a production deployment. Currently at **Cyberlion Technologies**, but always open to the right remote opportunity or freelance project.
+<!-- ABOUT & LIFE CAROUSEL: Core Engineering Capabilities & 3-Slide Passions Carousel -->
+<img src="./assets/about-life.svg?v=1" alt="About Sir. Brian — Engineering Capabilities and Passions" width="100%" />
 
-If you need something built, fixed, or scaled — let's talk.
+<br/>
 
-📬 **hello@sir-brian.top** &nbsp;|&nbsp; 🌐 **[sirbrian.vercel.app](https://sirbrian.vercel.app)**
+<!-- TECH RADAR: 3 Tilted Elliptical Planetary Orbits & Grouped Stack Chips -->
+<img src="./assets/stack.svg?v=1" alt="Tech Stack and Frameworks Planetary Radar" width="100%" />
 
----
+<br/>
 
-## What I Do
+<!-- ID DASHBOARD: Swinging Lanyard Card with Barcode, Holographic Foil & Production Metrics -->
+<img src="./assets/id-dashboard.svg?v=1" alt="Verified ID and Production Track Record" width="100%" />
 
-**Fullstack Development** — Next.js, Node.js, Django, FastAPI, Laravel, Flask. I build things that work in production, not just in demos.
+<br/>
 
-**AI & LLM Integration** — OpenAI, Anthropic Claude, Gemini, LangChain. I connect AI capabilities to real business workflows — REST APIs, RAG pipelines, chatbots, document processing.
+<!-- CONNECT SECTION: Right-Pointing Illustrated Character & Collaboration Invitation -->
+<img src="./assets/connect.svg?v=1" alt="Let's Build Something Exceptional — Connect with Sir. Brian" width="100%" />
 
-**Cloud & DevOps** — AWS, Docker, Nginx, GitHub Actions, Linux servers. I set up infrastructure that doesn't wake you up at 3am.
+<br/>
 
-**SEO & Digital Strategy** — Technical SEO audits, content strategy, performance optimization. I've helped clients go from invisible to ranking.
-
-**IT Consulting & Architecture** — System design, cloud migration, DevOps setup, team coaching. I've worked with startups and established businesses across East Africa.
-
----
-
-## Projects Worth Looking At
-
-### 💸 SwiftKash — [swiftkash.top](https://swiftkash.top)
-Instant mobile loan platform for Kenyans. M-Pesa API integration, 5-minute approval flow, zero hidden fees. Built with Next.js and Node.js.
-
-### 📄 CVPoa — [cvpoa-two.vercel.app](https://cvpoa-two.vercel.app)
-AI-powered CV and cover letter builder optimized for ATS systems. Built specifically for the East African job market. Uses LangChain + OpenAI under the hood. Payment via M-Pesa from KES 30.
-
-### 🔐 ProxyVault — [proxyvault.top](https://proxyvault.top)
-Premium web hosting and proxy solutions platform. Next.js frontend, Node.js backend, cloud-deployed.
-
-### 🤝 Telegram Escrow Bot — [@YourTelegramEscrow_Bot](https://t.me/YourTelegramEscrow_Bot)
-Peer-to-peer escrow service running inside Telegram. Handles dispute resolution, fund holding, and release — all via bot commands. Python + Django + Telegram Bot API.
-
-### 🏢 Client Work
-- **[Star Infinite Innovations Ltd](https://www.infiniteinnovationslimited.com/)** — Full enterprise website build
-- **[Yagwa Tech Solutions](https://yagwatech.com/)** — Enterprise website + custom integrations
-- **[Paveena Wear](https://paveenawear.com/)** — E-commerce store with payment integration
-- **[Estien Capital](https://estien.co.ke/)** — Website redesign for improved UX and conversions
+</div>
 
 ---
 
-## Tech I Work With
+### 🚀 Featured Production Projects & Solutions
 
-**Languages:** Python · JavaScript · TypeScript · PHP
-
-**Frontend:** Next.js · Vue.js · Tailwind CSS · HTML/CSS
-
-**Backend:** Node.js · Django · FastAPI · Flask · Laravel
-
-**AI/ML:** OpenAI API · Anthropic Claude · LangChain · Hugging Face · Google Gemini
-
-**Databases:** PostgreSQL · MySQL · Redis
-
-**DevOps:** Docker · AWS · Nginx · GitHub Actions · Linux
+| Project | Domain | Core Technologies | Highlights & Business Impact | Live Demo |
+| :--- | :--- | :--- | :--- | :---: |
+| **🏢 [Starlet Technologies](https://starlettechnologies.com/)** | IT Solutions & Enterprise Web | `Cloud Infrastructure` `Web Engineering` `SaaS` | Digital flagship platform delivering managed IT, systems architecture, scalable digital solutions & technical consulting for growth enterprises. | [**Visit Site ↗**](https://starlettechnologies.com/) |
+| **🌿 [Radiant Reach Organics](https://radiantreach.co.ke/)** | D2C E-Commerce | `Next.js` `M-Pesa Daraja` `Tailwind CSS` | Kenya's premier organic botanical cosmetics store with automated M-Pesa STK push checkout, product filtering & mobile-optimized speeds. | [**Visit Site ↗**](https://radiantreach.co.ke/) |
+| **🧠 [BEMAD Kenya](https://bemadkenya.org/)** | Non-Profit / Healthcare | `Next.js` `React` `SEO & Vitals` | High-impact youth mental health platform with interactive event bookings, newsletter engine & 200%+ organic search discovery. | [**Visit Site ↗**](https://bemadkenya.org/) |
+| **👟 [IQFITS-47](https://iqfits47.store/)** | Streetwear E-Commerce | `Next.js` `M-Pesa API` `PostgreSQL` | Curated sneaker & streetwear drop engine featuring live order tracking, nationwide delivery logistics & instant mobile checkout. | [**Visit Site ↗**](https://iqfits47.store/) |
+| **💼 [Estien Capital](https://estien.co.ke/)** | Financial Services | `Web Redesign` `Security Hardening` | Complete digital platform modernization for Kenyan investment and wealth advisory firm. | [**Visit Site ↗**](https://estien.co.ke/) |
 
 ---
 
-## Currently Working On
+### 🛡️ Verified Technical Credentials & Background
 
-- Shipping a new AI SaaS product targeting the East African market
-- Deepening production experience with AWS (working toward certification)
-- Writing about tech, AI, and software on [techdaily.buzz](https://techdaily.buzz)
-
----
-
-## Let's Work Together
-
-I'm open to:
-- **Remote fullstack or backend engineering roles**
-- **Freelance web and AI development projects**
-- **IT consulting and system architecture contracts**
-- **Short-term contract work**
-
-The fastest way to reach me is email: **hello@sir-brian.top**
-
-Or find me here:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sir-brian)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sirbrianmurutu)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254792710951)
-[![Portfolio](https://img.shields.io/badge/Portfolio-447FF7?style=flat-square&logo=google-chrome&logoColor=white)](https://sirbrian.vercel.app)
+- **Organization**: Solutions Architecture & Engineering Lead @ **[Starlet Technologies](https://starlettechnologies.com/)**
+- **Education**: Bachelor of Science in Information Technology (Mount Kenya University)
+- **Specialized Lab**: Applied Data Science Lab (WorldQuant University — Data Wrangling, Machine Learning & Pipelines)
+- **Diploma**: Diploma in Information Communication Technology (Rift Valley Institute of Science & Technology)
+- **Specialties**: IT Solutions Architecture • Full-Stack Web Engineering • Systems & Cloud Administration • Pre-Sales Engineering
+- **Location**: Thika / Nairobi, Kenya 🇰🇪 (EAT / UTC+3)
 
 ---
 
-*🇰🇪 Nairobi, Kenya · Available for remote work globally*
+### 🤝 Direct Connect & Social Links
+
+*Links inside GitHub SVG images are read-only when embedded. Tap any badge below to connect directly:*
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-070b16?style=for-the-badge&logo=vercel&logoColor=00d2ff&labelColor=0d1527)](https://sirbrian.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1527)](https://www.linkedin.com/in/brianmurutu)
+[![Email](https://img.shields.io/badge/Email_Me-ff354f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1527)](mailto:murutubrian@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1527)](https://wa.me/254792710951)
+[![Taplink](https://img.shields.io/badge/All_Socials-247bff?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1527)](https://taplink.cc/sirbrian/)
+
+<br/>
+
+```bash
+curl -s https://sirbrian.vercel.app/api/contact | jq .
+# "Let's architect something extraordinary."
