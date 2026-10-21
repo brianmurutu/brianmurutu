@@ -35,11 +35,12 @@
 
 | Project | Domain | Core Technologies | Highlights & Business Impact | Live Demo |
 | :--- | :--- | :--- | :--- | :---: |
-| **🏢 [Starlet Technologies](https://starlettechnologies.com/)** | IT Solutions & Enterprise Web | `Cloud Infrastructure` `Web Engineering` `SaaS` | Digital flagship platform delivering managed IT, systems architecture, scalable digital solutions & technical consulting for growth enterprises. | [**Visit Site ↗**](https://starlettechnologies.com/) |
-| **🌿 [Radiant Reach Organics](https://radiantreach.co.ke/)** | D2C E-Commerce | `Next.js` `M-Pesa Daraja` `Tailwind CSS` | Kenya's premier organic botanical cosmetics store with automated M-Pesa STK push checkout, product filtering & mobile-optimized speeds. | [**Visit Site ↗**](https://radiantreach.co.ke/) |
-| **🧠 [BEMAD Kenya](https://bemadkenya.org/)** | Non-Profit / Healthcare | `Next.js` `React` `SEO & Vitals` | High-impact youth mental health platform with interactive event bookings, newsletter engine & 200%+ organic search discovery. | [**Visit Site ↗**](https://bemadkenya.org/) |
-| **👟 [IQFITS-47](https://iqfits47.store/)** | Streetwear E-Commerce | `Next.js` `M-Pesa API` `PostgreSQL` | Curated sneaker & streetwear drop engine featuring live order tracking, nationwide delivery logistics & instant mobile checkout. | [**Visit Site ↗**](https://iqfits47.store/) |
-| **💼 [Estien Capital](https://estien.co.ke/)** | Financial Services | `Web Redesign` `Security Hardening` | Complete digital platform modernization for Kenyan investment and wealth advisory firm. | [**Visit Site ↗**](https://estien.co.ke/) |
+| ** 📝 [ Quick Tenders ](https://quicktenders.co.ke) ** | IT Solutions & Enterprise Web | `Cloud Infrastructure` `Web Engineering` `SaaS` | A comprehensive platform for managing tenders and procurement processes, designed to streamline operations and enhance transparency, along with solutions & technical consulting for growth enterprises. | [** Visit Site ↗ **](https://quicktenders.co.ke/) |
+| ** 🌿 [ Radiant Reach Organics ](https://radiantreach.co.ke/) ** | D2C E-Commerce | `Next.js` `M-Pesa Daraja` `Tailwind CSS` | Kenya's premier organic botanical cosmetics store with automated M-Pesa STK push checkout, product filtering & mobile-optimized speeds. | [** Visit Site ↗ **](https://radiantreach.co.ke/) |
+| ** 🧠 [ BEMAD Kenya ](https://bemadkenya.org/) ** | Non-Profit / Healthcare | `Next.js` `React` `SEO & Vitals` | High-impact youth mental health platform with interactive event bookings, newsletter engine & 200%+ organic search discovery. | [** Visit Site ↗ **](https://bemadkenya.org/) |
+| ** 🏥 [ HMIS by Starlet Technologies ](https://hmis.starlettechnologies.com/) ** | Healthcare Management | `Angular` `.NET` `SQL Server` | A Health Management Information System that facilitates efficient data management in healthcare settings, ensuring better patient care and operational efficiency. | [** Visit Site ↗ **](https://hmis.starlettechnologies.com/) |
+| ** 💼 [ Estien Capital ](https://estien.co.ke/) ** | Financial Services | `Web Redesign` `Security Hardening` | Complete digital platform modernization for Kenyan investment and wealth advisory firm. | [** Visit Site ↗ **](https://estien.co.ke/) |
+
 
 ---
 
